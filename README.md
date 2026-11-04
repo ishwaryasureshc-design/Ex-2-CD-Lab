@@ -82,7 +82,7 @@ return 0;
 ```
 
 # OUTPUT
-<img width="568" height="356" alt="Screenshot 2026-11-04 142354" src="https://github.com/user-attachments/assets/fec438f7-2472-4138-933c-ff2f341b9d6f" />
+<img width="1364" height="767" alt="image" src="https://github.com/user-attachments/assets/48dda35d-88c6-4689-b56e-60ed1833209b" />
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
